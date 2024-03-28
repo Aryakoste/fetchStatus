@@ -1,0 +1,13 @@
+.changeScreenButtons {
+    border: 1px solid black;
+    margin: 3%;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.changeScreenButtons button {
+    background-color: rgb(0, 119, 255);
+    color: white;
+    padding: 5px 15px;
+}
